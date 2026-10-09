@@ -14,3 +14,12 @@ chromadb
 faiss-cpu
 langchain-chroma
 langchain-google-genai
+wikipedia
+arxiv
+langchainhub
+langchain-classic
+langchain 
+langsmith
+groq
+langchain-groq
+beautifulsoup4
