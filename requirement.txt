@@ -23,3 +23,6 @@ langsmith
 groq
 langchain-groq
 beautifulsoup4
+sentence_transformers
+langchain-huggingface
+cassio
